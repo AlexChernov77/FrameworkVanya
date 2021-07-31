@@ -7,6 +7,9 @@
 
 #import <Foundation/Foundation.h>
 
+public class FrameVanya {
+  
+}
 //! Project version number for FrameworkIvan.
 FOUNDATION_EXPORT double FrameworkIvanVersionNumber;
 
